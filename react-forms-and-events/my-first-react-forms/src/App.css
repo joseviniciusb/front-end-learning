@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+.myForm{
+  background-image: url(./assets/background-beach.jpg);
+  margin: 0 auto; 
+  width: 260px;
+  height: 250px;
+ 
+}
+
+myForm label{
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%); 
+}
