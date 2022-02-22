@@ -3,3 +3,7 @@
 
  Para acessar conteúdos específicos, navegue entre as branches e divirta-se.
 
+
+// road Map
+ 23/04 => Combinando Reducers 
+ 
