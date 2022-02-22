@@ -5,5 +5,5 @@
 
 
 // road Map
- 23/04 => Combinando Reducers 
+ 23/02 => Combinando Reducers 
  
