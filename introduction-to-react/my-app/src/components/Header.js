@@ -1,14 +1,12 @@
 import React from 'react';
 
-const Header = () => {
+const Header = (props) => {
   return (
     <>
       <header>
-        <h1>Zezin</h1>
+        <h1>{props.name}</h1>
         <ul className="menu">
-          <li>Home</li>
-          <li>Contact</li>
-          <li>Login</li>
+          <li>{props.links}</li>
         </ul>
       </header>
     </>
