@@ -4,10 +4,23 @@
 
 body{
   background-color: rgba(0, 0, 0, 0.856);
+  color: white;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 50px 0px 50px;
 }
 
 .Header {
   background-color: rgb(155, 9, 9);
-  color: white;
   padding-left: 15px;
+}
+
+.trailerContainer {
+  border: 1px solid white;
+  height: 165px;
+  width: 215px;
+  margin-top: 15px;
 }
